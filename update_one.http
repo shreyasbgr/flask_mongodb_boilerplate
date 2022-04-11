@@ -1,0 +1,11 @@
+POST http://localhost:5000/update-one
+Content-Type: application/json
+
+{
+    "present_data":{
+        "name": "Nikhil"
+    },
+    "new_data":{
+        "$set": { "name" : "Nikhil Nayak" }
+    }
+}

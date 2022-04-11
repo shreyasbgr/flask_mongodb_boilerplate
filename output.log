@@ -1,0 +1,298 @@
+2022-04-11 17:36:39,079 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 17:36:39,118 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 17:36:51,046 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 17:36:51,080 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 17:36:55,794 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 17:36:55,828 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 17:36:56,440 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 17:36:56,475 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 17:36:56,862 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 17:36:56,897 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 17:36:57,228 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 17:36:57,261 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 17:36:57,584 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 17:36:57,617 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 17:36:57,957 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 17:36:57,992 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 17:36:58,286 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 17:36:58,319 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 17:46:12,010 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 17:46:20,288 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 17:46:20,288 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 17:46:20,872 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 17:46:45,536 - 	INFO - mongo_util.py - filter_records - 126 - Finding records based on query in MongoDB
+2022-04-11 17:46:45,537 - 	INFO - mongo_util.py - filter_records - 131 - Finding records based on query in MongoDB successful.
+2022-04-11 17:47:18,955 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 17:47:27,196 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 17:47:27,197 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 17:47:27,666 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 17:47:31,509 - 	INFO - mongo_util.py - filter_records - 126 - Finding records based on query in MongoDB
+2022-04-11 17:47:31,509 - 	INFO - mongo_util.py - filter_records - 131 - Finding records based on query in MongoDB successful.
+2022-04-11 17:48:03,281 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 17:48:11,400 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 17:48:11,401 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 17:48:11,742 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 17:48:16,329 - 	INFO - mongo_util.py - filter_records - 126 - Finding records based on query in MongoDB
+2022-04-11 17:48:16,330 - 	INFO - mongo_util.py - filter_records - 131 - Finding records based on query in MongoDB successful.
+2022-04-11 17:48:42,662 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 17:48:50,934 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 17:48:50,934 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 17:48:51,435 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 17:48:56,076 - 	INFO - mongo_util.py - filter_records - 126 - Finding records based on query in MongoDB
+2022-04-11 17:48:56,076 - 	INFO - mongo_util.py - filter_records - 131 - Finding records based on query in MongoDB successful.
+2022-04-11 17:49:30,087 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 17:49:38,281 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 17:49:38,282 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 17:49:38,651 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 17:49:41,666 - 	INFO - mongo_util.py - filter_records - 126 - Finding records based on query in MongoDB
+2022-04-11 17:49:41,666 - 	INFO - mongo_util.py - filter_records - 131 - Finding records based on query in MongoDB successful.
+2022-04-11 17:50:29,232 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 17:50:37,466 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 17:50:37,468 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 17:50:37,979 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 17:50:40,306 - 	INFO - mongo_util.py - filter_records - 126 - Finding records based on query in MongoDB
+2022-04-11 17:50:40,306 - 	INFO - mongo_util.py - filter_records - 131 - Finding records based on query in MongoDB successful.
+2022-04-11 17:51:49,716 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 17:51:57,930 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 17:51:57,930 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 17:51:58,470 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 17:52:01,308 - 	INFO - mongo_util.py - filter_records - 126 - Finding records based on query in MongoDB
+2022-04-11 17:52:01,310 - 	INFO - mongo_util.py - filter_records - 131 - Finding records based on query in MongoDB successful.
+2022-04-11 17:52:48,878 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 17:52:57,105 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 17:52:57,106 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 17:52:58,224 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 17:53:00,854 - 	INFO - mongo_util.py - filter_records - 126 - Finding records based on query in MongoDB
+2022-04-11 17:53:00,854 - 	INFO - mongo_util.py - filter_records - 131 - Finding records based on query in MongoDB successful.
+2022-04-11 17:53:24,600 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 17:53:32,712 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 17:53:32,712 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 17:53:33,092 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 17:53:36,208 - 	INFO - mongo_util.py - filter_records - 126 - Finding records based on query in MongoDB
+2022-04-11 17:53:36,208 - 	INFO - mongo_util.py - filter_records - 131 - Finding records based on query in MongoDB successful.
+2022-04-11 18:03:48,798 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 18:03:56,975 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 18:03:56,976 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 18:03:57,473 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 18:04:00,595 - 	INFO - mongo_util.py - filter_records - 126 - Finding records based on query in MongoDB
+2022-04-11 18:04:00,595 - 	INFO - mongo_util.py - filter_records - 131 - Finding records based on query in MongoDB successful.
+2022-04-11 18:12:40,723 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 18:12:48,916 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 18:12:48,924 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 18:12:49,417 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 18:12:51,245 - 	INFO - mongo_util.py - filter_records - 126 - Finding records based on query in MongoDB
+2022-04-11 18:12:51,247 - 	INFO - mongo_util.py - filter_records - 131 - Finding records based on query in MongoDB successful.
+2022-04-11 18:14:17,599 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 18:14:25,815 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 18:14:25,816 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 18:14:26,606 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 18:14:29,774 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 18:14:37,886 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 18:14:37,886 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 18:14:38,615 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 18:14:43,632 - 	INFO - mongo_util.py - filter_records - 126 - Finding records based on query in MongoDB
+2022-04-11 18:14:43,632 - 	INFO - mongo_util.py - filter_records - 131 - Finding records based on query in MongoDB successful.
+2022-04-11 18:16:09,242 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 18:16:17,549 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 18:16:17,550 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 18:16:18,353 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 18:16:24,538 - 	INFO - mongo_util.py - filter_records - 126 - Finding records based on query in MongoDB
+2022-04-11 18:16:24,539 - 	INFO - mongo_util.py - filter_records - 131 - Finding records based on query in MongoDB successful.
+2022-04-11 18:17:14,679 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 18:17:22,857 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 18:17:22,859 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 18:17:23,317 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 18:17:23,390 - 	INFO - mongo_util.py - filter_records - 126 - Finding records based on query in MongoDB
+2022-04-11 18:17:23,391 - 	INFO - mongo_util.py - filter_records - 131 - Finding records based on query in MongoDB successful.
+2022-04-11 18:19:29,264 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 18:19:37,472 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 18:19:37,472 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 18:19:38,624 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 18:19:40,402 - 	INFO - mongo_util.py - filter_records - 126 - Finding records based on query in MongoDB
+2022-04-11 18:19:40,402 - 	INFO - mongo_util.py - filter_records - 131 - Finding records based on query in MongoDB successful.
+2022-04-11 18:20:42,131 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 18:20:50,248 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 18:20:50,249 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 18:20:50,762 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 18:20:53,924 - 	INFO - mongo_util.py - filter_records - 126 - Finding records based on query in MongoDB
+2022-04-11 18:20:53,924 - 	INFO - mongo_util.py - filter_records - 131 - Finding records based on query in MongoDB successful.
+2022-04-11 18:21:23,935 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 18:21:32,047 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 18:21:32,048 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 18:21:32,375 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 18:21:32,437 - 	INFO - mongo_util.py - filter_records - 126 - Finding records based on query in MongoDB
+2022-04-11 18:21:32,438 - 	INFO - mongo_util.py - filter_records - 131 - Finding records based on query in MongoDB successful.
+2022-04-11 18:22:23,495 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 18:22:31,695 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 18:22:31,696 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 18:22:32,149 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 18:22:34,654 - 	INFO - mongo_util.py - filter_records - 126 - Finding records based on query in MongoDB
+2022-04-11 18:22:34,654 - 	INFO - mongo_util.py - filter_records - 131 - Finding records based on query in MongoDB successful.
+2022-04-11 18:23:03,142 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 18:23:11,267 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 18:23:11,268 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 18:23:11,631 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 18:45:20,520 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 18:45:28,679 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 18:45:28,679 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 18:45:30,029 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 18:45:34,101 - 	INFO - mongo_util.py - filter_records - 126 - Finding records based on query in MongoDB
+2022-04-11 18:45:34,102 - 	INFO - mongo_util.py - filter_records - 131 - Finding records based on query in MongoDB successful.
+2022-04-11 18:47:15,119 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 18:47:23,375 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 18:47:23,376 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 18:47:23,937 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 18:47:30,561 - 	INFO - mongo_util.py - filter_records - 126 - Finding records based on query in MongoDB
+2022-04-11 18:47:30,561 - 	INFO - mongo_util.py - filter_records - 131 - Finding records based on query in MongoDB successful.
+2022-04-11 18:48:41,507 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 18:48:49,743 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 18:48:49,743 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 18:48:50,776 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 18:48:53,633 - 	INFO - mongo_util.py - filter_records - 126 - Finding records based on query in MongoDB
+2022-04-11 18:48:53,633 - 	INFO - mongo_util.py - filter_records - 131 - Finding records based on query in MongoDB successful.
+2022-04-11 18:49:29,949 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 18:49:38,065 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 18:49:38,066 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 18:49:38,690 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 18:49:57,761 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 18:50:05,968 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 18:50:05,980 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 18:50:06,455 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 18:50:09,436 - 	INFO - mongo_util.py - filter_records - 126 - Finding records based on query in MongoDB
+2022-04-11 18:50:09,436 - 	INFO - mongo_util.py - filter_records - 131 - Finding records based on query in MongoDB successful.
+2022-04-11 19:24:45,704 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 19:24:53,865 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 19:24:53,865 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 19:24:54,534 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 19:25:12,598 - 	INFO - mongo_util.py - filter_records - 126 - Finding records based on query in MongoDB
+2022-04-11 19:25:12,599 - 	INFO - mongo_util.py - filter_records - 131 - Finding records based on query in MongoDB successful.
+2022-04-11 19:33:03,730 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 19:33:12,007 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 19:33:12,021 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 19:33:12,882 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 19:33:16,685 - 	INFO - mongo_util.py - filter_records - 126 - Finding records based on query in MongoDB
+2022-04-11 19:33:16,686 - 	INFO - mongo_util.py - filter_records - 131 - Finding records based on query in MongoDB successful.
+2022-04-11 19:34:38,521 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 19:34:46,755 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 19:34:46,755 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 19:34:47,256 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 19:34:48,961 - 	INFO - mongo_util.py - filter_records - 126 - Finding records based on query in MongoDB
+2022-04-11 19:34:48,962 - 	INFO - mongo_util.py - filter_records - 131 - Finding records based on query in MongoDB successful.
+2022-04-11 19:35:17,449 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 19:35:25,553 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 19:35:25,558 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 19:35:25,940 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 19:35:29,091 - 	INFO - mongo_util.py - filter_records - 126 - Finding records based on query in MongoDB
+2022-04-11 19:35:29,092 - 	INFO - mongo_util.py - filter_records - 131 - Finding records based on query in MongoDB successful.
+2022-04-11 19:36:23,169 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 19:36:31,437 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 19:36:31,437 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 19:36:32,018 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 19:43:22,634 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 19:43:30,767 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 19:43:30,768 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 19:43:31,265 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 19:43:31,329 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 19:43:31,366 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 19:43:58,120 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 19:44:06,226 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 19:44:06,226 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 19:44:06,627 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 19:44:07,926 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 19:44:07,964 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 19:44:30,591 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 19:44:38,813 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 19:44:38,814 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 19:44:39,233 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 19:44:42,013 - 	INFO - mongo_util.py - find_one_record - 116 - Finding one record in MongoDB
+2022-04-11 19:44:42,050 - 	INFO - mongo_util.py - find_one_record - 121 - Finding one record in MongoDB successful.
+2022-04-11 19:45:19,206 - 	INFO - mongo_util.py - filter_records - 126 - Finding records based on query in MongoDB
+2022-04-11 19:45:19,206 - 	INFO - mongo_util.py - filter_records - 131 - Finding records based on query in MongoDB successful.
+2022-04-11 19:52:32,866 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 19:52:41,040 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 19:52:41,041 - 	INFO - mongo_util.py - find_one_record - 118 - Finding one record in MongoDB
+2022-04-11 19:52:41,491 - 	INFO - mongo_util.py - find_one_record - 123 - Finding one record in MongoDB successful.
+2022-04-11 19:52:58,240 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 19:53:06,380 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 19:53:06,380 - 	INFO - mongo_util.py - find_one_record - 120 - Finding one record in MongoDB
+2022-04-11 19:53:07,197 - 	INFO - mongo_util.py - find_one_record - 125 - Finding one record in MongoDB successful.
+2022-04-11 19:53:24,680 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 19:53:32,780 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 19:53:32,781 - 	INFO - mongo_util.py - find_one_record - 120 - Finding one record in MongoDB
+2022-04-11 19:53:33,213 - 	INFO - mongo_util.py - find_one_record - 125 - Finding one record in MongoDB successful.
+2022-04-11 19:54:51,710 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 19:54:59,972 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 19:54:59,972 - 	INFO - mongo_util.py - find_one_record - 120 - Finding one record in MongoDB
+2022-04-11 19:55:00,431 - 	INFO - mongo_util.py - find_one_record - 125 - Finding one record in MongoDB successful.
+2022-04-11 19:55:50,753 - 	INFO - mongo_util.py - delete_many_records - 59 - Deleting many records from the MongoDB collection
+2022-04-11 19:55:50,799 - 	INFO - mongo_util.py - delete_many_records - 69 - Deletion of many records from the MongoDB collection successful
+2022-04-11 19:58:05,309 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 19:58:13,492 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 19:58:13,492 - 	INFO - mongo_util.py - find_one_record - 120 - Finding one record in MongoDB
+2022-04-11 19:58:13,908 - 	INFO - mongo_util.py - find_one_record - 125 - Finding one record in MongoDB successful.
+2022-04-11 19:59:03,044 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 19:59:11,125 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 19:59:11,125 - 	INFO - mongo_util.py - find_one_record - 120 - Finding one record in MongoDB
+2022-04-11 19:59:11,586 - 	INFO - mongo_util.py - find_one_record - 125 - Finding one record in MongoDB successful.
+2022-04-11 19:59:51,757 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 19:59:59,861 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 19:59:59,862 - 	INFO - mongo_util.py - find_one_record - 120 - Finding one record in MongoDB
+2022-04-11 20:00:00,427 - 	INFO - mongo_util.py - find_one_record - 125 - Finding one record in MongoDB successful.
+2022-04-11 20:06:02,981 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 20:06:11,181 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 20:06:11,187 - 	INFO - mongo_util.py - find_one_record - 120 - Finding one record in MongoDB
+2022-04-11 20:06:11,757 - 	INFO - mongo_util.py - find_one_record - 125 - Finding one record in MongoDB successful.
+2022-04-11 20:06:14,792 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 20:06:22,887 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 20:06:22,888 - 	INFO - mongo_util.py - find_one_record - 120 - Finding one record in MongoDB
+2022-04-11 20:06:23,324 - 	INFO - mongo_util.py - find_one_record - 125 - Finding one record in MongoDB successful.
+2022-04-11 20:06:23,372 - 	INFO - mongo_util.py - delete_one_record - 48 - Deleting one records from the MongoDB collection
+2022-04-11 20:06:23,410 - 	INFO - mongo_util.py - delete_one_record - 55 - Deletion of one record from the MongoDB collection successful
+2022-04-11 20:07:32,731 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 20:07:40,908 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 20:07:40,908 - 	INFO - mongo_util.py - find_one_record - 122 - Finding one record in MongoDB
+2022-04-11 20:07:41,432 - 	INFO - mongo_util.py - find_one_record - 127 - Finding one record in MongoDB successful.
+2022-04-11 20:07:57,293 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 20:08:05,463 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 20:08:05,463 - 	INFO - mongo_util.py - find_one_record - 124 - Finding one record in MongoDB
+2022-04-11 20:08:06,263 - 	INFO - mongo_util.py - find_one_record - 129 - Finding one record in MongoDB successful.
+2022-04-11 20:14:51,626 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 20:14:59,828 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 20:14:59,837 - 	INFO - mongo_util.py - find_one_record - 124 - Finding one record in MongoDB
+2022-04-11 20:15:00,335 - 	INFO - mongo_util.py - find_one_record - 129 - Finding one record in MongoDB successful.
+2022-04-11 20:15:12,243 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 20:15:20,328 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 20:15:20,328 - 	INFO - mongo_util.py - find_one_record - 124 - Finding one record in MongoDB
+2022-04-11 20:15:20,646 - 	INFO - mongo_util.py - find_one_record - 129 - Finding one record in MongoDB successful.
+2022-04-11 20:15:51,319 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 20:15:59,489 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 20:15:59,489 - 	INFO - mongo_util.py - find_one_record - 124 - Finding one record in MongoDB
+2022-04-11 20:16:00,025 - 	INFO - mongo_util.py - find_one_record - 129 - Finding one record in MongoDB successful.
+2022-04-11 20:16:21,075 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 20:16:29,188 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 20:16:29,188 - 	INFO - mongo_util.py - find_one_record - 124 - Finding one record in MongoDB
+2022-04-11 20:16:29,837 - 	INFO - mongo_util.py - find_one_record - 129 - Finding one record in MongoDB successful.
+2022-04-11 20:16:50,606 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 20:16:58,728 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 20:16:58,728 - 	INFO - mongo_util.py - find_one_record - 124 - Finding one record in MongoDB
+2022-04-11 20:16:59,088 - 	INFO - mongo_util.py - find_one_record - 129 - Finding one record in MongoDB successful.
+2022-04-11 20:20:05,177 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 20:20:13,377 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 20:20:13,377 - 	INFO - mongo_util.py - find_one_record - 124 - Finding one record in MongoDB
+2022-04-11 20:20:13,911 - 	INFO - mongo_util.py - find_one_record - 129 - Finding one record in MongoDB successful.
+2022-04-11 20:20:21,557 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 20:20:29,680 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 20:20:29,680 - 	INFO - mongo_util.py - find_one_record - 124 - Finding one record in MongoDB
+2022-04-11 20:20:30,058 - 	INFO - mongo_util.py - find_one_record - 129 - Finding one record in MongoDB successful.
+2022-04-11 20:20:30,133 - 	INFO - mongo_util.py - update_one_record - 164 - Updating one record in MongoDB
+2022-04-11 20:20:30,180 - 	INFO - mongo_util.py - update_one_record - 172 - Updating one record in MongoDB successful.
+2022-04-11 20:21:56,647 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 20:22:04,804 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 20:22:04,818 - 	INFO - mongo_util.py - find_one_record - 124 - Finding one record in MongoDB
+2022-04-11 20:22:05,274 - 	INFO - mongo_util.py - find_one_record - 129 - Finding one record in MongoDB successful.
+2022-04-11 20:22:08,506 - 	INFO - mongo_util.py - connection - 14 - Connecting to the MongoDB...
+2022-04-11 20:22:16,738 - 	INFO - mongo_util.py - connection - 21 - Connection to the MongoDB successful
+2022-04-11 20:22:16,738 - 	INFO - mongo_util.py - find_one_record - 124 - Finding one record in MongoDB
+2022-04-11 20:22:17,526 - 	INFO - mongo_util.py - find_one_record - 129 - Finding one record in MongoDB successful.
+2022-04-11 20:22:46,902 - 	INFO - mongo_util.py - update_many_records - 177 - Updating many record in MongoDB
+2022-04-11 20:22:46,953 - 	INFO - mongo_util.py - update_many_records - 184 - Updating many records in MongoDB successful.
