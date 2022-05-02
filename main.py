@@ -58,5 +58,4 @@ if __name__ == '__main__':
     col_name = 'first_db'
     logfile = 'output.log'
     my_mongo_util_obj = mongodb_util(connection_url,db_name,col_name,logfile)
-    record = my_mongo_util_obj.find_one_record()
     app.run(debug=True)
